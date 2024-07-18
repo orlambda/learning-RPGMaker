@@ -1,0 +1,29 @@
+RMMZ Tutorial 01
+
+Map Basics
+
+Create/name a project
+Window layout
+    Map
+    Tile palette
+    Map list
+Map editing mode vs event editing mode
+Database contains all components except maps + map events
+Tileset settings are found in the database
+Zoom
+    Buttons
+    Cmd + scroll
+Scroll
+Rename map
+    Right click > edit
+Load sample map
+    Right click in map list
+    Creates map as a child of the selected map
+Link maps (move from one map to another)
+    Origin to destination
+    Right click origin tile > quick event creation > transfer
+    Select destination
+Set player initial position
+    Right click tile > set starting position > player
+Save
+Playtest

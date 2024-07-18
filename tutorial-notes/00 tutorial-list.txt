@@ -1,0 +1,41 @@
+A summary of the built-in RPGMaker MZ tutorials
+
+01 Map Basics
+    Create a project
+    Window layout
+        Map
+        Tile palette
+        Map list
+    Map editing mode vs event editing mode
+    Database
+    Tilesets
+    Zoom
+        Buttons
+        Cmd + scroll
+    Scroll
+    Rename map
+    Load sample map
+    Link maps
+    Set player initial position
+    Save
+    Playtest
+
+
+02
+03
+04
+05
+06
+07
+08
+09
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
