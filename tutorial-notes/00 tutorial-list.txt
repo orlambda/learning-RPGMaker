@@ -1,4 +1,5 @@
 A summary of the built-in RPGMaker MZ tutorials
+Notes taken for myself to aid memory
 
 01 Map Basics
     Create a project
@@ -14,8 +15,13 @@ A summary of the built-in RPGMaker MZ tutorials
     Save
     Playtest
 
-02
-03
+02 Event basics (Dialogue)
+    Create character event
+    Dialogue options
+03 Event transfer 1
+    Move NPCs - autonomous movement
+    Event search to find NPCAdd movement route
+    Preview
 04
 05
 06

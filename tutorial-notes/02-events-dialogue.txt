@@ -1,0 +1,20 @@
+RMMZ Tutorial 2
+
+Event basics - Dialogue
+
+New event
+    Double click tile to launch event editor
+    Appearance - double-click image
+    Priority above/below/same  
+        Same = collision
+    name
+    Trigger action Button
+    Contents
+    Double click first line
+        Show text
+        Control characters to change font
+    Show choices
+    Show balloon icon
+    "wait for completion" can't move until animation finishes
+        check if can do something else e.g. change a switch while animation plays
+    

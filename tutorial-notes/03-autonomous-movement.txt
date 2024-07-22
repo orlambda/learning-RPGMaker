@@ -1,0 +1,9 @@
+RMMZ Tutorial 3
+
+Event Transfer 1 - Autonomous movement
+
+Event search to find NPC
+
+Give an NPC autonomous movement
+Add movement route
+Preview
