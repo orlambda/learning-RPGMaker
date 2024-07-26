@@ -1,0 +1,8 @@
+RMMZ Tutorial 05
+
+Switches
+
+NPC gives you a potion.
+Event page - whichever matches conditions.
+If multiple match - HIGHEST NUMBER
+
