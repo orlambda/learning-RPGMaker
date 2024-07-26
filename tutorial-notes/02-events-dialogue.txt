@@ -2,16 +2,16 @@ RMMZ Tutorial 2
 
 Event basics - Dialogue
 
-New event
+New event - make an NPC with dialogue options
     Double click tile to launch event editor
     Appearance - double-click image
     Priority above/below/same  
         Same = collision
-    name
+    Name
     Trigger action Button
     Contents
     Double click first line
-        Show text
+    Show text
         Control characters to change font
     Show choices
     Show balloon icon

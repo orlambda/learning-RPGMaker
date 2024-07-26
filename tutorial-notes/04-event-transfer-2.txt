@@ -1,0 +1,20 @@
+RMMZ Tutorial 4
+
+Event Transfer 2 - Set routes
+
+Create walking woman NPC Event
+    Select tile
+    Give name
+    Select image
+    Show text "I'm going to walk 4 tiles to the right"
+    Set movement route - this Event
+    Skip if cannot move
+    Uncheck wait for completion
+    Move right x 4
+
+Create MovingGuy NPC walks alongside
+    Same as above - man one tile above "I'm going to walk with that lady"
+    Open woman event. Copy and paste the movement and change "this event" to MovingGuy
+
+They should both walk 4 tiles at the same time when you talk to them.
+They will be blocked after talkingt to them a few times but they will keep saying the same thing.
